@@ -1,0 +1,19 @@
+*{
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    max-width: 89%;
+    max-height: 89%;
+}
+.image-slider{
+    display: flex;
+    justify-content: space-between;
+}
+#next{
+    display: flex;
+    align-items: center;
+}
+#back{
+    display: flex;
+    align-items: center;
+}
